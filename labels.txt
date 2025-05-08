@@ -1,0 +1,8 @@
+0 Accident
+1 Dense Traffic
+2 Fire
+3 Improper Parking
+4 Road Construction
+5 Traffic signal failure
+6 Unplanned Events or gatherings
+7 Vehicle Breakdown
